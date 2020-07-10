@@ -1,0 +1,456 @@
+Char,Type,Hex,Name,Cost/Input
+System,System,00,Spiritual Strike Talisman,1
+System,System,01,Magic Potion,1
+System,System,02,Stopwatch,1
+System,System,03,Hakurouken,1
+System,System,04,Sacrificial Doll,1
+System,System,05,Grimoire,1
+System,System,06,Custom Parasol,1
+System,System,07,Soul Torch,1
+System,System,08,Left-handed Folding Fan,1
+System,System,09,Ibuki Gourd,1
+System,System,0A,Tengu Fan,1
+System,System,0B,Spell-Breaking Drug,1
+System,System,0C,A Penny Saved,0
+System,System,0D,Divine Raiment of the Dragon Fish,1
+System,System,0E,Sword of Scarlet Preception,1
+System,System,0F,Illness Recovery Charm,1
+System,System,10,Frozen Frog,1
+System,System,11,Dragon Star,1
+System,System,12,Control Rod,1
+System,System,13,Three Heavenly Drops,1
+System,System,14,Catfish's Great Earthquake,1
+Reimu,Skill,64,Hakurei Amulet,236
+Reimu,Skill,65,Cautionary Border,214
+Reimu,Skill,66,Dimensional Rift,421
+Reimu,Skill,67,Ascension Kick,623
+Reimu,Skill,68,Youkai Buster,236
+Reimu,Skill,69,Binding Border,214
+Reimu,Skill,6A,Demon Sealing Dimensional Rift,421
+Reimu,Skill,6B,Sliding Ascension Kick,623
+Reimu,Skill,6C,Spread Amulet,236
+Reimu,Skill,6D,Permanent Border,214
+Reimu,Skill,6E,Instant Dimensional Rift,421
+Reimu,Skill,6F,Rain Dance,623
+Reimu,Spell,C8,"Spirit Sign ""Fantasy Orb""",2
+Reimu,Spell,C9,"Divine Spirit ""Fantasy Seal""",5
+Reimu,Spell,CC,"Dream Sign ""Demon Binding Array""",2
+Reimu,Spell,CE,"Divine Arts ""Demon Binding Circle""",4
+Reimu,Spell,CF,"Boundary ""Expanding Boundary""",3
+Reimu,Spell,D0,"Jewel Sign ""Concealed Orbs of Light""",1
+Reimu,Spell,D1,"Treasure Sign ""Ying-Yang Orb""",2
+Reimu,Spell,D2,"Holy Relic ""Ying-Yang Sanctifier Orb""",4
+Reimu,Spell,D6,"Divine Arts ""Wind God Kick""",3
+Reimu,Spell,DB,"""Fantasy Heaven""",4
+Marisa,Skill,64,Witch Leyline,214
+Marisa,Skill,65,Miasma Sweep,623
+Marisa,Skill,66,Grand Stardust,22
+Marisa,Skill,67,Meteonic Debris,236
+Marisa,Skill,68,Radial Strike,214
+Marisa,Skill,69,Bosky Sweeper,623
+Marisa,Skill,6A,Devildom Torch,22
+Marisa,Skill,6B,Narrow Spark,236
+Marisa,Skill,6C,Up Sweeper,214
+Marisa,Skill,6D,Stellar Missile,623
+Marisa,Skill,6E,Magic Reusable Bomb,22
+Marisa,Skill,6F,Green Spread,236
+Marisa,Spell,C8,"Love Sign ""Master Spark""",3
+Marisa,Spell,CA,"Magicannon ""Final Spark""",5
+Marisa,Spell,CB,"Star Sign ""Dragon Meteor""",5
+Marisa,Spell,CC,"Love Sign ""Non-Directional Laser""",4
+Marisa,Spell,CD,"Magic Sign ""Stardust Reverie""",2
+Marisa,Spell,CE,"Star Sign ""Escape Velocity""",3
+Marisa,Spell,CF,"Comet ""Blazing Star""",5
+Marisa,Spell,D0,"Star Sign ""Meteonic Shower""",1
+Marisa,Spell,D1,"Star Sign ""Gravity Beat""",3
+Marisa,Spell,D3,"Light Sign ""Luminous Strike""",2
+Marisa,Spell,D4,"Light Sign ""Earthlight Ray""",3
+Marisa,Spell,D6,"Magical Research ""Deep Ecological Bomb""",4
+Marisa,Spell,D7,"Ritual Sign ""Orreries Sun""",2
+Marisa,Spell,DB,"Perversion ""Sure-Fire Master Spark""",5
+Sakuya,Skill,64,Crossup Magic,623
+Sakuya,Skill,65,Bounce No-Bounce,214
+Sakuya,Skill,66,Magic Star Sword,236
+Sakuya,Skill,67,Vanishing Everything,22
+Sakuya,Skill,68,Propelling Silver,623
+Sakuya,Skill,69,Square Ricochet,214
+Sakuya,Skill,6A,Sense of Thrown Edge,236
+Sakuya,Skill,6B,Perfect Maid,22
+Sakuya,Skill,6C,Dancing Star Sword,623
+Sakuya,Skill,6D,Misdirection,214
+Sakuya,Skill,6E,Parallel Brain,236
+Sakuya,Skill,6F,Time Paradox,22
+Sakuya,Spell,C8,"Illusion Sign ""Killing Doll""",2
+Sakuya,Spell,C9,"Time Sign ""Private Square""",3
+Sakuya,Spell,CA,"Wound Sign ""Inscribed Red Soul""",3
+Sakuya,Spell,CB,"Buriallusion ""Phantasmic Killer""",4
+Sakuya,Spell,CC,Sakuya's World,5
+Sakuya,Spell,CD,"Scarred Soul ""Soul Sculpture""",4
+Sakuya,Spell,CE,"Silver Sign ""Silver Bound""",2
+Sakuya,Spell,CF,"Conjuring ""Eternal Meek""",2
+Sakuya,Spell,D0,"Speed Sign ""Luminous Ricochet""",3
+Sakuya,Spell,D1,"Time Sign ""Sakyua's Special Stopwatch""",4
+Sakuya,Spell,D2,"Lightspeed ""C. Ricochet""",4
+Sakuya,Spell,D3,"Time Sign ""Imaginary Vertical Time""",3
+Sakuya,Spell,D4,"Watch ""Luna Dial""",3
+Alice,Skill,64,Doll Placement,236
+Alice,Skill,65,Volatile Doll,623
+Alice,Skill,66,Doll Arrangement,214
+Alice,Skill,67,Doll Activation,22
+Alice,Skill,68,Returning Dolls,236
+Alice,Skill,69,Doll Cremation,623
+Alice,Skill,6A,Thousand Spear Dolls,214
+Alice,Skill,6B,SP Doll,22
+Alice,Skill,6C,Doll Ambush,236
+Alice,Skill,6D,Edo High-Explosive Pawn,623
+Alice,Skill,6E,Doll Archers,214
+Alice,Skill,6F,Seeker Wire,22
+Alice,Spell,C8,"Magic Sign ""Artful Sacrifice""",1
+Alice,Spell,C9,"War Sign ""Little Legion""",2
+Alice,Spell,CA,"Curse Sign ""Shanghai Doll""",2
+Alice,Spell,CB,"Demonic Control ""Return Inanimate""",3
+Alice,Spell,CC,"War Command ""Dolls of War""",4
+Alice,Spell,CD,"Curse Sign ""Hourai Doll""",4
+Alice,Spell,CE,"Spy Sign ""Seeker Dolls""",2
+Alice,Spell,CF,"Crimson Sign ""Holland Doll""",4
+Alice,Spell,D0,"Doll ""Futuristic Puppet""",3
+Alice,Spell,D1,"Focus Power ""Trip Wire""",2
+Alice,Spell,D2,"Lance Sign ""Cute Phalanx""",4
+Alice,Spell,D3,"Dolls ""Lemmings' Parade""",5
+Youmu,Skill,64,Netherworld Reflection Slash,236
+Youmu,Skill,65,Crescent Moon Slash,623
+Youmu,Skill,66,Slash of LIfe and Death,214
+Youmu,Skill,67,Medium's Bind,22
+Youmu,Skill,68,Lotus Stance Cut,236
+Youmu,Skill,69,Intolerant Avici,623
+Youmu,Skill,6A,Heart Carving Cut,214
+Youmu,Skill,6B,Wicked Soul,22
+Youmu,Skill,6C,Phosphoric Slash,236
+Youmu,Skill,6D,Insightful Sword,623
+Youmu,Skill,6E,Slashing a Flower Upon One's Head,214
+Youmu,Skill,6F,Strange Half-Body,22
+Youmu,Spell,C8,"Human Sign ""Slash of Present""",2
+Youmu,Spell,C9,"Life Ending Sword ""Meditation""",3
+Youmu,Spell,CA,"Soul Sign ""Ghostly Wheel of Pain""",2
+Youmu,Spell,CB,"Obsessor ""Slash of Eternity""",5
+Youmu,Spell,CC,"Enlightened Sword ""Rise from Delusion""",4
+Youmu,Spell,CD,"Spirit ""Secret of Life and Death""",5
+Youmu,Spell,CE,"Sword Skill ""Thousand Cherry Blossoms""",3
+Youmu,Spell,CF,"Soul Cutting ""Ascension to Nirvana""",4
+Youmu,Spell,D0,"Empty Perception ""6-root Cleansing""",5
+Youmu,Spell,D4,"Reincarnation Sword ""Sword of Cycles""",3
+Remilia,Skill,64,Demon Lord Walk,236
+Remilia,Skill,65,Servant Flier,214
+Remilia,Skill,66,Demon Lord Cradle,623
+Remilia,Skill,67,Demon Lord Arrow,22
+Remilia,Skill,68,Vampire Claw,236
+Remilia,Skill,69,Chain Gang,214
+Remilia,Skill,6A,Rocket Kick Upper,623
+Remilia,Skill,6B,Ceiling Fear,22
+Remilia,Skill,6C,Trickster Devil,236
+Remilia,Skill,6D,Demon's Dinner Fork,214
+Remilia,Skill,6E,Vampire Kiss,623
+Remilia,Skill,6F,Stigmanizer,22
+Remilia,Spell,C8,"Scarlet Sign ""Red the Nightless Castle""",3
+Remilia,Spell,C9,"Critical ""Heart Break""",2
+Remilia,Spell,CA,"Midnight Sign ""Demon King Cradle""",2
+Remilia,Spell,CB,"Scarlet Devil ""Scarlet Devil""",5
+Remilia,Spell,CC,"Divine Spear ""Spear the Gungnir""",4
+Remilia,Spell,CD,"Midnight King ""Dracula Cradle""",5
+Remilia,Spell,CE,"Midnight Sign ""Bad Lady Scramble""",3
+Remilia,Spell,CF,"Destiny ""Miserable Fate""",3
+Remilia,Spell,D0,"""Millenium Vampire""",4
+Remilia,Spell,D1,"Demon ""Remilia Stretch""",4
+Yuyuko,Skill,64,Ghostly Butterfly,214
+Yuyuko,Skill,65,Light of the Undead,236
+Yuyuko,Skill,66,Eternal Wandering,421
+Yuyuko,Skill,67,Dance of the Butterfly Dream,623
+Yuyuko,Skill,68,Spirits that Died Well,214
+Yuyuko,Skill,69,Lance of the Swallowtail Crest,236
+Yuyuko,Skill,6A,Spirit-Luring Nectar,421
+Yuyuko,Skill,6B,Reverse Screens,623
+Yuyuko,Skill,6C,Sphere Bloom,214
+Yuyuko,Skill,6D,Land of Death,236
+Yuyuko,Skill,6E,Gifts to the Deceased,421
+Yuyuko,Skill,6F,Sense of Elegance,623
+Yuyuko,Spell,C8,"Death Sign ""Ghastly Dream""",2
+Yuyuko,Spell,C9,"Nether Sign ""Passage to the Underworld""",1
+Yuyuko,Spell,CA,"Ghost Sign ""Ageless Dream""",2
+Yuyuko,Spell,CB,"Deadly Butterfly ""Endless Nap""",4
+Yuyuko,Spell,CC,"Lost Again ""Gensokyo's Hell""",5
+Yuyuko,Spell,CD,"Life Limit ""Ticket to the Netherworld""",4
+Yuyuko,Spell,CE,"Psyche ""As the Butterfly Flies""",2
+Yuyuko,Spell,CF,"Butterfly Sign ""Death Lance""",4
+Yuyuko,Spell,D0,"Elegance ""Invitation to the Afterlife""",3
+Yuyuko,Spell,D1,"Cherry Sign ""Sense of Cherry Blossom""",5
+Yuyuko,Spell,DB,"""Resurrection Butterflies""",3
+Yukari,Skill,64,"Open, Lamented box of Urashima",236
+Yukari,Skill,65,Ghostly Butterfly Hidden in Zen Temple,623
+Yukari,Skill,66,"Ride the Waves, Fight the Ocean",214
+Yukari,Skill,67,Illusional rift,421
+Yukari,Skill,68,Bound to the Grave,236
+Yukari,Skill,69,Illusional Manji Parasol,623
+Yukari,Skill,6A,Universe of Matter and Antimatter,214
+Yukari,Skill,6B,Flesh Dismantler,421
+Yukari,Skill,6C,Bewitching Bait,236
+Yukari,Skill,6D,Border between Brains and Feet,623
+Yukari,Skill,6E,Eye of Changes,214
+Yukari,Skill,6F,Wings of the Chimera,421
+Yukari,Spell,C8,"Border Sign ""Quadruple Barrier""",3
+Yukari,Spell,C9,"Shikigami ""Ran Yakumo""",3
+Yukari,Spell,CA,"Boundary ""Border Between 2D and 3D""",1
+Yukari,Spell,CB,"Boundary ""Charming Quadruple Barrier""",4
+Yukari,Spell,CC,"Shikigami ""Chen""",1
+Yukari,Spell,CD,"Boundary ""Objective Border""",3
+Yukari,Spell,CE,"Fantasy Nest ""Nest of Fireflies""",3
+Yukari,Spell,CF,"Aerial Bait ""Laced with Venom""",2
+Yukari,Spell,D0,"Magic Eye ""The Magic Eye of Laplace""",4
+Yukari,Spell,D7,"Obsolete Line ""Trip to the Old Station""",5
+Suika,Skill,64,Spectre -Dense-,236
+Suika,Skill,65,Gnome -Dense-,623
+Suika,Skill,66,Spectre -Thin-,214
+Suika,Skill,67,Gathering Oni,22
+Suika,Skill,68,Oni Spirit Bomb,236
+Suika,Skill,69,Gnome -Thin-,623
+Suika,Skill,6A,Unpleasant Mist,214
+Suika,Skill,6B,Thin Oni,22
+Suika,Skill,6C,Foot Bellows,236
+Suika,Skill,6D,Fire Oni,623
+Suika,Skill,6E,Ignis Fatuus,214
+Suika,Skill,6F,Kidnapping Oni,22
+Suika,Spell,C8,"Gather Sign ""Throwing Mt. Togakushi""",2
+Suika,Spell,C9,"Drunk Sign ""Art of Oni Binding""",2
+Suika,Spell,CA,"Oni Sign ""Missing Power""",2
+Suika,Spell,CB,"Gathering Oni ""Throwing Atlas""",5
+Suika,Spell,CC,"Drunken Dream ""Art of Gaki Binding""",4
+Suika,Spell,CD,"Great Oni ""Missing Purple Power""",4
+Suika,Spell,CE,"Mist Sign ""Gathering and Dissipating""",1
+Suika,Spell,CF,"Will-o-wisp ""Superdense Conflagration""",4
+Suika,Spell,D0,"Oni Sign ""Massacre on Mt. Ooe""",5
+Suika,Spell,D4,"Secret of Kings ""3-Step Destruction""",3
+Reisen,Skill,64,Mind Explosion,236
+Reisen,Skill,65,Illusionary Blast,214
+Reisen,Skill,66,Ultrared Field,623
+Reisen,Skill,67,Disbelief Aspect,22
+Reisen,Skill,68,Mind Bending,236
+Reisen,Skill,69,Eyesight Cleaning,214
+Reisen,Skill,6A,Ultraviolet Field,623
+Reisen,Skill,6B,Disorder Eye,22
+Reisen,Skill,6C,Mind Dropping,236
+Reisen,Skill,6D,Ripple Vision,214
+Reisen,Skill,6E,Undersense Break,623
+Reisen,Skill,6F,Acura Spectral,22
+Reisen,Spell,C8,"Charming Look ""Corolla Vision""",1
+Reisen,Spell,CA,"Illusion Bomb ""Mind Starmine""",3
+Reisen,Spell,CB,"Fascination ""Crown Vision""",3
+Reisen,Spell,CC,"Red Eyes ""Lunatic Blast""",4
+Reisen,Spell,CD,Lunatic Red Eyes,5
+Reisen,Spell,CE,"Weak Heart ""Demotivation""",1
+Reisen,Spell,CF,"Desolation ""Discarder""",3
+Reisen,Spell,D0,"Poison Smokescreen ""Gas-Woven Orb""",2
+Reisen,Spell,D1,"Life Elixir ""Grand Patriot's Elixir""",3
+Reisen,Spell,D2,"Shortsight ""X-Wave""",3
+Reisen,Spell,D3,"Farsight ""Infrared Moon""",2
+Aya,Skill,64,Gust Fan,236
+Aya,Skill,65,Domination Dash,214
+Aya,Skill,66,Wind Standing of the Tengu,22
+Aya,Skill,67,Pelting in the Night,421
+Aya,Skill,68,Gale Fan,236
+Aya,Skill,69,Graceful Dash,214
+Aya,Skill,6A,Tengu's Downburst,22
+Aya,Skill,6B,Wind Sickle Veiling,421
+Aya,Skill,6C,Wind from the Maple Fan,236
+Aya,Skill,6D,Tengu Felling,214
+Aya,Skill,6E,Tengu Drum,22
+Aya,Skill,6F,Tengu's Pebbles,421
+Aya,Spell,C8,"Whirl Sign ""Maple Leaf Fan""",3
+Aya,Spell,C9,"Tornado ""Indication to the Divine""",5
+Aya,Spell,CA,"Headwind ""Route Forbidden to Man""",4
+Aya,Spell,CB,"Thrust Sign ""Tengu's Macroburst""",3
+Aya,Spell,CD,"Wind Sign ""Wind of the Tengu Path""",2
+Aya,Spell,CE,Illusionary Dominance,5
+Aya,Spell,CF,"Wind Sign ""Tengu Limited Special""",2
+Aya,Spell,D0,"Crow Sign ""Dark Daymare""",4
+Aya,Spell,D3,"Demonic Beast ""Sickle Weasel Veiling""",1
+Aya,Spell,D4,"Squall ""Sarutahiko's Guidance""",3
+Komachi,Skill,64,Spirits of the Firm,236
+Komachi,Skill,65,Bound Spirits of the Earth,623
+Komachi,Skill,66,Ritual of Ecstacy,22
+Komachi,Skill,67,Floating Spirits of the Indolent Dead,214
+Komachi,Skill,68,Scythe of the Reaper,236
+Komachi,Skill,69,Wind on the Last Journey,623
+Komachi,Skill,6A,The Endless Way,22
+Komachi,Skill,6B,Lonely Bound Spirit,214
+Komachi,Skill,6C,A Human Spirit Passing By,236
+Komachi,Skill,6D,Boat on the Sanzu,623
+Komachi,Skill,6E,Taste of Death,22
+Komachi,Skill,6F,Scythe of Exorcism,214
+Komachi,Spell,C8,"Nautical Sign ""Flow of the River""",1
+Komachi,Spell,C9,"Poor Fate ""Short Life Expectancy""",5
+Komachi,Spell,CA,"Spirit Sign ""Abundant Floating Spirits""",1
+Komachi,Spell,CB,"Death Song ""Ferriage in the Deep Fog""",3
+Komachi,Spell,CC,"Exchange ""Unpitiable",5
+Komachi,Spell,CD,"Malice Sign ""Irresolute Bound Spirit""",3
+Komachi,Spell,CE,"Death Sign ""Scythe of Final Judgement""",4
+Komachi,Spell,CF,"Soul Sign ""Scythe of Wandering Spirits""",4
+Komachi,Spell,D3,"Hell ""Narrow Confines of Avici""",3
+Iku,Skill,64,Dragon Fish's Strike,236
+Iku,Skill,65,Veils like Water,623
+Iku,Skill,66,Dragon Fish's Wrath,22
+Iku,Skill,67,Electrostatic Guided Missile,214
+Iku,Skill,68,Dragon God's Strike,236
+Iku,Skill,69,Veils like Wind,623
+Iku,Skill,6A,Dragon God's Wrath,22
+Iku,Skill,6B,Dragon God's Lightning Flash,214
+Iku,Skill,6C,"Dragonfish, the Able Swimmer",236
+Iku,Skill,6D,The Smite of the Go-ess,623
+Iku,Skill,6E,Whiskers of the Dragon God,22
+Iku,Skill,6F,Dragon's Eye,214
+Iku,Spell,C8,"Electric Sign ""Thunder Drum Shot""",1
+Iku,Spell,C9,"Fish Sign ""Dragonfish Drill""",3
+Iku,Spell,CA,"Lightning Sign ""Elekiter Dragon Palace""",3
+Iku,Spell,CB,"Star Light ""Light Dragon's Sigh""",3
+Iku,Spell,CE,"Lightning Fish ""Swimming Thunder Shot""",2
+Iku,Spell,CF,"Angel's Raiment ""Veils like Sky""",4
+Iku,Spell,D0,"Angel's Raiment ""Veils like Time""",1
+Iku,Spell,D1,"Thorn Sign ""Thundercloud Stickleback""",3
+Iku,Spell,D2,"Dragonfish ""Swimming Oarfish Shot""",5
+Iku,Spell,D3,"Orb Sign ""Orb of the Five-Clawed Dragon""",4
+Tenshi,Skill,64,Sword of the Earth,214
+Tenshi,Skill,65,Pillars of Divine Punishment,22
+Tenshi,Skill,66,Beams of Non-Perception,236
+Tenshi,Skill,67,Sword of Non-Perception,623
+Tenshi,Skill,68,Six Earthquakes -Signs-,214
+Tenshi,Skill,69,Gaurding Keystones,22
+Tenshi,Skill,6A,Heaven and Earth Press,236
+Tenshi,Skill,6B,Sword of Scarlet Perception,623
+Tenshi,Skill,6C,Sword of Fate,214
+Tenshi,Skill,6D,Awakening of the Earth Spirits,22
+Tenshi,Skill,6E,Scarlet Sword Temperament,236
+Tenshi,Skill,6F,Sky Attack,623
+Tenshi,Spell,C8,"Earth Sign ""Sword of the Unletting Soil""",2
+Tenshi,Spell,C9,"Non-perception ""Sword of Rapture""",2
+Tenshi,Spell,CA,"Heaven Sign ""Sword of Divine Justice""",3
+Tenshi,Spell,CB,"Earthquake ""Sword of Worry and Joy""",5
+Tenshi,Spell,CC,"Temperament ""Meteorological Revelation""",4
+Tenshi,Spell,CD,"Keystone ""World Creation Press""",5
+Tenshi,Spell,CE,"Temperament ""State of Enlightenment""",4
+Tenshi,Spell,CF,"""Scarlet Weather Rapture""",5
+Tenshi,Spell,D0,"Swordplay ""Sword of Swagger""",3
+Tenshi,Spell,D1,"Weather ""Scarlet Weather Pressure""",3
+Sanae,Skill,64,Win-DCall,236
+Sanae,Skill,65,Omikuji Bomb,22
+Sanae,Skill,66,Sky-God Summon: Attack,623
+Sanae,Skill,67,Earth-God Summon: Shield,214
+Sanae,Skill,68,Wave-Call,421
+Sanae,Skill,69,Sky Serpent,236
+Sanae,Skill,6A,Sky-God Summon: Wind,22
+Sanae,Skill,6B,Earth-God Summon: Iron Ring,623
+Sanae,Skill,6C,Falling Stars,214
+Sanae,Skill,6D,Cobalt Spread,421
+Sanae,Skill,6E,Sky-God Summon: Onbashira,236
+Sanae,Skill,6F,Earth-God Summon: Trap,22
+Sanae,Spell,C8,"Prayer ""Charm of Good Commerce""",2
+Sanae,Spell,C9,"Esoterica ""Grey Thaumaturgy""",2
+Sanae,Spell,CA,"Esoterica ""Forgotten Ritual""",4
+Sanae,Spell,CB,"Omikuji ""Random Omikuji Barrage""",2
+Sanae,Spell,CC,"Sea Opening ""The Day the Sea Split""",3
+Sanae,Spell,CD,"Sea Opening ""Moses' Miracle""",5
+Sanae,Spell,CE,"Miracle ""Mid-day Supernova""",3
+Sanae,Spell,CF,"Miracle ""Night of the Supernova Storm""",4
+Sanae,Spell,D2,"Esoterica ""9 Character Peirce""",5
+Cirno,Skill,64,Icicle Shot,236
+Cirno,Skill,65,Midsummer Snowman,214
+Cirno,Skill,66,Little Iceberg,22
+Cirno,Skill,67,Freeze Touch Me,623
+Cirno,Skill,68,Frost Pillars,236
+Cirno,Skill,69,Ice Charge,214
+Cirno,Skill,6A,Icicle Bomb,22
+Cirno,Skill,6B,Icicle Lance,623
+Cirno,Skill,6C,Freezing Light,236
+Cirno,Skill,6D,Ice Kick,214
+Cirno,Skill,6E,Frozen Technique,22
+Cirno,Skill,6F,Icicle Sword,623
+Cirno,Spell,C8,"Ice Sign ""Icicle Machine Gun""",2
+Cirno,Spell,C9,"Frost Sign ""Frost Columns""",4
+Cirno,Spell,CA,"Ice Cubes ""Cold Sprinkler""",3
+Cirno,Spell,CB,"Cold Body ""Super Ice Kick""",3
+Cirno,Spell,CC,"Cold Sign ""Perfect Freeze""",5
+Cirno,Spell,CD,"Ice Sign ""Fairy Spin""",2
+Cirno,Spell,CE,"Blowing Ice ""Ice Tornado""",4
+Cirno,Spell,CF,"Ice Sign ""Sword Freezer""",3
+Cirno,Spell,D0,"Ice Cubes ""Great Crusher""",5
+Cirno,Spell,D2,"Frozen Sign ""Freeze Atmosphere""",3
+Cirno,Spell,D5,"Cold Sign ""Insta-Freeze Beam",3
+Hong,Skill,64,Spiril-Light Steps,214
+Hong,Skill,65,Red Cannon,623
+Hong,Skill,66,Yellow Quake Kick,22
+Hong,Skill,67,Fragrant Wave,236
+Hong,Skill,68,Searing Red Fist,214
+Hong,Skill,69,Red Energy Release,623
+Hong,Skill,6A,Earth Dragon Wave,22
+Hong,Skill,6B,Water Taichi Fist,236
+Hong,Skill,6C,Kick of Showering Brilliance,214
+Hong,Skill,6D,Tiger Chi Release,623
+Hong,Skill,6E,Sky Dragon Kick,22
+Hong,Skill,6F,Colorful Rain,236
+Hong,Spell,C8,"Color Sign ""Colorful Windchime""",2
+Hong,Spell,C9,"Ultimate Color ""Mad Colorful Dance""",4
+Hong,Spell,CA,"Chi Sign ""Star Bullets""",3
+Hong,Spell,CB,"Star Chi ""Earth-moving Star Bullets",5
+Hong,Spell,CC,"Attack Sign ""Roc Fist""",3
+Hong,Spell,CD,"Fiery Attack ""Roc-Killing Fist""",5
+Hong,Spell,CE,"Rainbow Sign ""Intense Rainbow Fist""",2
+Hong,Spell,CF,"Chi Sign ""Earth Dragon Sky Dragon Kick""",3
+Hong,Spell,D0,"Colorful Brilliance ""Rainbow Taichi""",4
+Hong,Spell,D1,"Brilliance ""Rainbow Brilliance Palm""",5
+Hong,Spell,D3,"Chi Sign ""Fierce Tiger Energy Release""",4
+Utsuho,Skill,64,Flare Up,623
+Utsuho,Skill,65,Ground Melt,236
+Utsuho,Skill,66,Break Sun,22
+Utsuho,Skill,67,Shooting Star,214
+Utsuho,Skill,68,Rocket Dive,623
+Utsuho,Skill,69,Hell Geyser,236
+Utsuho,Skill,6A,Shooting Sun,22
+Utsuho,Skill,6B,Retro Atomic Model,214
+Utsuho,Skill,6C,Melting Pummel Kick,623
+Utsuho,Skill,6D,Radiant Blade,236
+Utsuho,Skill,6E,Hell Wave Cannon,22
+Utsuho,Skill,6F,Vengeful Nuclear Spirits,214
+Utsuho,Spell,C8,"Explosion Sign ""Mega Flare""",3
+Utsuho,Spell,C9,"Explosion Sign ""Giga Flare""",5
+Utsuho,Spell,CB,"Burning Star ""Fixed Star""",3
+Utsuho,Spell,CC,"Burning Star ""The Ten Suns""",4
+Utsuho,Spell,CD,"Nuclear Sign ""Creeping Sun""",3
+Utsuho,Spell,CE,"""Hell's Artificial Sun""",1
+Utsuho,Spell,CF,"Geothermal ""Nuclear Blaze Geyser""",4
+Utsuho,Spell,D0,"Light Energy ""High-Tension Blade""",3
+Utsuho,Spell,D1,"Crow Sign ""Yatagarasu Dive""",4
+Utsuho,Spell,D2,"Nuclear Heat ""Uncontrollable Dive""",4
+Utsuho,Spell,D3,"Control ""Self Tokamak""",2
+Utsuho,Spell,D4,"""Subterranean Sun""",4
+Utsuho,Spell,D5,"Light Cover ""Nuclear Visor""",2
+Utsuho,Spell,D6,"""Abyss Nova""",5
+Suwako,Skill,64,Ancient Geyser,214
+Suwako,Skill,65,Toad God,623
+Suwako,Skill,66,Lake of Great Earth,236
+Suwako,Skill,67,Native Scourge,22
+Suwako,Skill,68,Frog God,214
+Suwako,Skill,69,Ancient Metal Ring,623
+Suwako,Skill,6A,Ancient Jade,236
+Suwako,Skill,6B,Blighted Earth,22
+Suwako,Skill,6C,Rain-Calling Frog,214
+Suwako,Skill,6D,Ms Longlimbs,623
+Suwako,Skill,6E,Stone Frog God,236
+Suwako,Skill,6F,Mishaguji Scourge,22
+Suwako,Spell,C8,"Native God ""Moriya God""",3
+Suwako,Spell,C9,"Spring Sign ""Moriya Clear Water""",2
+Suwako,Spell,CA,"Party Start ""2 bows, 2 Claps, 1 Bow""",3
+Suwako,Spell,CB,"Native God ""Froggy Braves the Elements""",3
+Suwako,Spell,CC,"Divine Instrument ""Moriya's Metal Ring""",2
+Suwako,Spell,CD,"Spring Sign ""Horrid River Jade""",4
+Suwako,Spell,CE,"Frog Hunt ""Snake Hears And Eats Frog""",4
+Suwako,Spell,CF,"Native God ""Master Longlimbs""",4
+Suwako,Spell,D0,"Scourge God ""Mishaguchi-sama""",5
+Suwako,Spell,D1,"Native God ""Red Frog of Houei 4""",4
+Suwako,Spell,D4,"Frog Nap ""Can Always Hibernate""",4
