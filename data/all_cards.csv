@@ -117,6 +117,33 @@ Alice,Spell,D0,"Doll ""Futuristic Puppet""",3
 Alice,Spell,D1,"Focus Power ""Trip Wire""",2
 Alice,Spell,D2,"Lance Sign ""Cute Phalanx""",4
 Alice,Spell,D3,"Dolls ""Lemmings' Parade""",5
+Patchouli,Skill,64,Summer Red,236
+Patchouli,Skill,65,Winter Element,22
+Patchouli,Skill,66,Spring Wind,623
+Patchouli,Skill,67,Autumn Edge,214
+Patchouli,Skill,68,Dew Spear,421
+Patchouli,Skill,69,Summer Flame,236
+Patchouli,Skill,6A,Condensed Bubble,22
+Patchouli,Skill,6B,Flash of Spring,623
+Patchouli,Skill,6C,Autumn Blade,214
+Patchouli,Skill,6D,Emerald City,421
+Patchouli,Skill,6E,Wipe Moisture,236
+Patchouli,Skill,6F,Sticky Bubbles,22
+Patchouli,Skill,70,Static Green,623
+Patchouli,Skill,71,Force Lasher,214
+Patchouli,Skill,72,Diamond Hardness,421
+Patchouli,Spell,C8,"Fire Metal Sign ""St Elmo's Pillar""",3
+Patchouli,Spell,C9,"Earth Water Sign ""Noachian Deluge""",2
+Patchouli,Spell,CA,"Metal Wood Sign ""Elemental Harvester""",2
+Patchouli,Spell,CB,"Sun Sign ""Royal Flare""",5
+Patchouli,Spell,CC,"Moon Sign ""Silent Selene""",4
+Patchouli,Spell,CD,"Five Elements ""Philosopher's Stone""",5
+Patchouli,Spell,CE,"Water Sign ""Jellyfish Princess""",3
+Patchouli,Spell,CF,"Moon Wood Sign ""Satellite Sunflower""",3
+Patchouli,Spell,D2,"Sun Wood Sign ""Photosynthesis""",3
+Patchouli,Spell,D3,"Fire Water Sign ""Phlogistic Pillar""",3
+Patchouli,Spell,D4,"Earth Metal Sign ""Emerald Megalopolis""",4
+Patchouli,Spell,D5,"Sun Moon Sign ""Royal Diamond Ring""",5
 Youmu,Skill,64,Netherworld Reflection Slash,236
 Youmu,Skill,65,Crescent Moon Slash,623
 Youmu,Skill,66,Slash of LIfe and Death,214
